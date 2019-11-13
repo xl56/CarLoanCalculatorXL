@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarLoanCalculator</string>
+    <string name="downPymtAmt">downPymtAmt</string>
+    <string name="carPrice">Car Price</string>
+    <string name="dPymtAmt">Down Payment Amount</string>
+    <string name="loanPeriod">Loan Period(y)</string>
+    <string name="interestRate">Interest Rate</string>
+    <string name="Price" />
+    <string name="price">price</string>
+    <string name="result">Result</string>
+</resources>
